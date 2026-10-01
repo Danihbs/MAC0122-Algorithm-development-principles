@@ -1,6 +1,8 @@
 # MAC0122-Algorithm-development-principles
 
-This repository is a curated collection of algorithms, exercises, and programming examples studied during MAC0122 — Principles of Algorithm Development.
+This repository is a curated collection of algorithms, exercises, and programming examples developed during MAC0122 — Principles of Algorithm Development, completed in 2023.
+
+The repository was organized and published later as part of my academic portfolio, with the goal of documenting the main algorithmic concepts studied during the course.
 
 The code was developed as part of the learning process for the course. Some implementations were written independently, while others were developed with guidance from the course instructors or adapted from examples and exercises presented in Algorithms by Robert Sedgewick and Kevin Wayne.
 
